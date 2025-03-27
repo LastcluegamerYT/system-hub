@@ -1,8 +1,32 @@
 [
-  {"name": "AI Trainer", "icon": "🤖", "type": "offline"},
-  {"name": "Image Enhancer", "icon": "🖼️", "type": "offline"},
-  {"name": "Code Debugger", "icon": "💻", "type": "offline"},
-  {"name": "Video Downloader", "icon": "📹", "type": "offline"},
-  {"name": "Online Text Editor", "icon": "📝", "type": "https://google.com"},
-  {"name": "Web Calculator", "icon": "🔢", "type": "https://calc.com"}
+  {
+    "name": "AI Trainer",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4712/4712031.png",
+    "type": "offline"
+  },
+  {
+    "name": "Image Enhancer",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1829/1829588.png",
+    "type": "offline"
+  },
+  {
+    "name": "Code Debugger",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2956/2956886.png",
+    "type": "offline"
+  },
+  {
+    "name": "Video Downloader",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3523/3523665.png",
+    "type": "offline"
+  },
+  {
+    "name": "Online Text Editor",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1044/1044594.png",
+    "type": "https://www.onlinetexteditor.com"
+  },
+  {
+    "name": "Web Calculator",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3440/3440462.png",
+    "type": "https://www.desmos.com/scientific"
+  }
 ]
