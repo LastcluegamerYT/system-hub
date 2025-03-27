@@ -1,0 +1,8 @@
+[
+  {"name": "AI Trainer", "icon": "🤖", "type": "offline"},
+  {"name": "Image Enhancer", "icon": "🖼️", "type": "offline"},
+  {"name": "Code Debugger", "icon": "💻", "type": "offline"},
+  {"name": "Video Downloader", "icon": "📹", "type": "offline"},
+  {"name": "Online Text Editor", "icon": "📝", "type": "https://google.com"},
+  {"name": "Web Calculator", "icon": "🔢", "type": "https://calc.com"}
+]
